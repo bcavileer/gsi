@@ -2,6 +2,8 @@
 
 Welcome to Green Storm Water Infrastructure core
 
+http://bcavileer.github.io/gsi
+
 ## Installation
 
 Add this line to your application's Gemfile:
